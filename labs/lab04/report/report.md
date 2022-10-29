@@ -98,6 +98,21 @@ header-includes:
 
 ![Перенос файлов на github.](/home/aalushin/work/study/2022-2023/Архитектура компьютера/study_2022-2023_arh-pc/labs/lab04/report/image/photo1667000917.jpeg){ #fig:009 width=70% }
 
+# Выполнение самостоятельной работы.
+
+2.1. В соответствующем каталоге я сделал отчет по лабораторной работе №3. 
+
+![Скриншоты 3 лабораторной работы в каталоге image.](/home/aalushin/work/study/2022-2023/Архитектура компьютера/study_2022-2023_arh-pc/labs/lab04/report/image/photo1667035390.jpeg){ #fig:010 width=70% }
+
+![Фрагмент работы в файле report.md.](/home/aalushin/work/study/2022-2023/Архитектура компьютера/study_2022-2023_arh-pc/labs/lab04/report/image/photo1666999413.jpeg){ #fig:011 width=70% }
+
+2.2. Я создал отчета в формате *.docx и *.pdf.
+
+![Отчет в формате pdf и docx.](/home/aalushin/work/study/2022-2023/Архитектура компьютера/study_2022-2023_arh-pc/labs/lab04/report/image/photo1667035405.jpeg){ #fig:012 width=70% }
+
+2.3. Я загрузил файлы на github.
+
+![Загрузка на github.](/home/aalushin/work/study/2022-2023/Архитектура компьютера/study_2022-2023_arh-pc/labs/lab04/report/image/photo1667035963.jpeg){ #fig:013 width=70% }
 
 # Выводы
 
