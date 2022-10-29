@@ -94,6 +94,11 @@ header-includes:
 
 ![Скриншоты выполнения лабораторной работы в каталоге image.](/home/aalushin/work/study/2022-2023/Архитектура компьютера/study_2022-2023_arh-pc/labs/lab04/report/image/photo1666999415.jpeg){ #fig:008 width=70% }
 
+1.6. Я перенес файлы на github.
+
+![Перенос файлов на github.](/home/aalushin/work/study/2022-2023/Архитектура компьютера/study_2022-2023_arh-pc/labs/lab04/report/image/photo1667000917.jpeg){ #fig:009 width=70% }
+
+
 # Выводы
 
 Я овладел практическими навыками легковесного языка разметки Markdown.
