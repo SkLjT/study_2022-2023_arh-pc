@@ -134,7 +134,7 @@ header-includes:
 
 5) Я загрузил результаты работы на GitHub.
 
-![Загрузка на GitHub ](image/placeimg_800_600_tech.jpg){ #fig:016 width=70% }
+![Загрузка на GitHub ](image/photo1668815031.jpeg){ #fig:016 width=70% }
 
 # Вывод
 
